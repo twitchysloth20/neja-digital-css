@@ -4,5 +4,5 @@
   "type": "module",
   "main": "./index.css",
   "style": "./index.css",
-  "files": ["./index.css"]
+  "files": ["./*"]
 }
