@@ -3,6 +3,7 @@
   border-radius: 0;
   padding: var(--spacer-sm) var(--spacer-lg);
   font-size: var(--text-md);
+  cursor: pointer;
 
   &.variant-solid {
     background-color: var(--button-color);
