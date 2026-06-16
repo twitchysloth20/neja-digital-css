@@ -3,6 +3,7 @@
   max-width: 420px;
   text-align: center;
   overflow: hidden;
+  background-color: var(--card-color);
 }
 
 .nj-card__image {
