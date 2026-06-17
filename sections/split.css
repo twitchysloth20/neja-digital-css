@@ -1,4 +1,4 @@
-.nj-about {
+.nj-split-section {
   display: flex;
   flex-wrap: wrap;
   gap: var(--spacer-lg);
@@ -18,15 +18,15 @@
   }
 }
 
-.nj-about__title {
+.nj-split-section__title {
   font-size: var(--text-3xl);
 }
 
-.nj-about__description {
+.nj-split-section__description {
   font-size: var(--text-md);
 }
 
-.nj-about__image {
+.nj-split-section__image {
   margin: 0 auto;
 
   img {
